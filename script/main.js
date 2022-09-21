@@ -209,10 +209,10 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".nabil-dp",
+      ".nabill-dp",
       0.5,
       {
-        scale: 3.5,
+        scale: 3.0,
         opacity: 0,
         x: 25,
         y: -25,
