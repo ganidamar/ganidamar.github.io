@@ -62,7 +62,7 @@ body {
   margin: 0 auto;
   border: 2px solid #aaa;
   border-radius: 5px;
-  padding: 20px;
+  padding: 10px;
   position: relative;
 }
 
@@ -124,7 +124,7 @@ body {
 
 .six .hat {
   position: absolute;
-  width: 50px;
+  width: 40px;
   top: -40px;
   left: 20%;
   /* transform: scale(0.1); */
@@ -280,8 +280,8 @@ body {
   }
 
   .six .hat {
-    width: 50px;
-    top: -20px;
+    width: 40px;
+    top: -40px;
   }
 
   .wish-hbd {
