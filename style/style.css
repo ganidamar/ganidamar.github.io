@@ -58,11 +58,11 @@ body {
 }
 
 .four .text-box {
-  width: 800px;
+  width: 600px;
   margin: 0 auto;
   border: 2px solid #aaa;
   border-radius: 5px;
-  padding: 10px;
+  padding: 20px;
   position: relative;
 }
 
