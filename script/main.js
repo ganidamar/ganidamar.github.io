@@ -121,7 +121,7 @@ const animationTimeline = () => {
       ".four",
       0.5,
       {
-        scale: 0.2,
+        scale: 0.5,
         opacity: 0,
         y: -150
       },
